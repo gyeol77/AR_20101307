@@ -15,7 +15,7 @@ For each case, the appropriate PNG image or cube overlay is rendered directly on
 
 이 프로젝트는 영상 속 손가락 수에 따라 시각적 요소(이미지 또는 큐브)를 표시하는 AR 기반 상호작용 프로그램입니다.
 
-코드는 Python(3.10.0)으로 작성했고, OpenCV와 Mediaipe를 사용하여 펼쳐진 손가락의 수를 인식하고 시각적 요소를 손에 실시간으로 오버레이합니다.
+코드는 Python(3.10.0)으로 작성했고, OpenCV와 Mediapipe를 사용하여 펼쳐진 손가락의 수를 인식하고 시각적 요소를 손에 실시간으로 오버레이합니다.
 
 손가락 한 개: 고양이 이미지
 손가락 두 개: 강아지 이미지
